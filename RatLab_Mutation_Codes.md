@@ -1,7 +1,6 @@
 # Rat Lab — All Mutation Codes
-Discord Server:https://discord.gg/3DV86a8Ud
+Discord Server:https://discord.gg/AqXkxYPbfu
 ---
-20 NEW CODES ADDED AT BOTTOM
 
 ## Physical Size & Scale Changes (10/10)
 | Mutation | Code | Effect |
