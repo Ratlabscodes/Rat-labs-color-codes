@@ -33,4 +33,4 @@ Code format: Orange-Purple (type both numbers in the Halloween Mixer in the bioh
 | Grim Reaper | 5-2 | A hooded cloak and a scythe: your bites do double damage to staff under a quarter of their health. |
 | Cerberus | 5-3 | Three heads: every bite hits twice. |
 | Slime Monster | 5-4 | A gooey see-through green body: bullets slow down in you, so you take a third less gun damage. |
-| Pumpkin Reaper | ? | Unknown. Not obtainable with a normal Orange-Purple code (all 30 combinations are taken). Color code and description unlock once discovered. |
+| Pumpkin Reaper | | makes you oneshot anything and burns people around you and heals fast |
